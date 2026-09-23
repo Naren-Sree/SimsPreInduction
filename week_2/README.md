@@ -10,3 +10,6 @@ The pile stops being symmetric and leans to one side and since the question aske
 
 I tried doing the extar challenges as well but i could only  do rock due to the time constraint.
 Rock was the easiest one since there was literally no physics attatched to it, we just needed to define it.
+
+Also I didnt commit multiple times before as i was coding the whole thing in temp in a venv.
+Will make sure i do so next time.
